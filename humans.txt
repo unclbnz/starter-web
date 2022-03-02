@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+	Jason Taylor	jason@git.training	@awesomejt
 
 # TECHNOLOGY COLOPHON
 
